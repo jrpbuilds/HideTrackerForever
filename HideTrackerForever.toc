@@ -1,0 +1,10 @@
+## Interface: 16001
+## Title: HideTrackerForever
+## Notes: Hides the Blizzard objective/quest tracker so guide windows (e.g. RestedXP) have the space. Toggle with /htf or the minimap button. Remembers your last setting.
+## Author: jake (jrpbuilds on GitHub)
+## X-Github: https://github.com/jrpbuilds
+## Version: 0.3.1
+## IconTexture: Interface\AddOns\HideTrackerForever\Media\logo
+## SavedVariables: HideTrackerForeverDB
+
+HideTrackerForever.lua
