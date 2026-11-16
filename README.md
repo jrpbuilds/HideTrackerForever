@@ -1,8 +1,14 @@
 # HideTrackerForever
 
+<img src="Media/logo-large.png" alt="HideTrackerForever" width="128">
+
 Hides the default Blizzard objective/quest tracker so guide addons like **RestedXP** and **Zygor** can own the right side of the screen.
 
 Built for **World of Warcraft: Forever**.
+
+[CurseForge](https://www.curseforge.com/wow/addons/hidetrackerforever)
+
+![HideTrackerForever minimap button](Media/screenshot.png)
 
 ## Features
 
